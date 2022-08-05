@@ -1,0 +1,9 @@
+welcome: Welcome to GlucoCheck Blood Sugar Monitor. Would you like to know your average, minimum, maximum or current blood sugar reading?
+
+bsprompt: Your blood sugar level is
+
+minimum: Your minimum blood sugar reading was
+
+maximum: Your maximum blood sugar reading was
+
+average: Your average blood sugar reading was
