@@ -19,7 +19,8 @@ pip3 install 'cryptography<2.2'
    ```
    ./ngrok http 5000
    ```
-4. We will use the second Forwarding URL (the one starts with https://)
+4. We will use the second Forwarding URL (the one starts with https://) later on in Amazon Developer Console
+
 
 ## Amazon Developer Console 
 1. Create a new skill using "Create Skill" button
